@@ -1,6 +1,6 @@
 # Snort Integration with Splunk – SOC Lab
 
-![Snort Integration with Splunk](./snort-splunk-thumbnail.png)
+![Snort Integration with Splunk](./snort-splunk-thumbnail.jpg)
 
 This project demonstrates the integration of **Snort IDS** with **Splunk SIEM** to simulate a real-world Security Operations Center (SOC) environment.
 
