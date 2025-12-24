@@ -4,7 +4,7 @@ This project demonstrates the integration of **Snort IDS** with **Splunk SIEM** 
 
 ## Overview
 - Snort configured as a Network Intrusion Detection System (NIDS)
-- Custom rules for detecting port scans, ICMP flooding, FTP and SSH access
+- Custom rules for detecting port scanning, ICMP flooding, FTP and SSH access
 - Alerts forwarded to Splunk using Splunk Universal Forwarder
 - Events analyzed and visualized in Splunk dashboards
 
@@ -17,7 +17,8 @@ This project demonstrates the integration of **Snort IDS** with **Splunk SIEM** 
 
 ## Documentation
 📄 **Project Report:**  
-[Integrating Snort with Splunk (PDF)](./Integrating%20Snort%20with%20Splunk%20-%20Group1.pdf)
+[Integrating Snort with Splunk (PDF)](./Integrating%20Snort%20with%20Splunk.pdf)
 
-## Type
-Academic / Hands-on SOC Lab Project (RedTeam Hacker Academy)
+## Project Type
+Academic / Hands-on SOC Lab Project  
+RedTeam Hacker Academy
